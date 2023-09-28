@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 I'm Emau Paul | tech-enthusiast
+⚡ I have a keen interest in software development
+🌱 I like learning new technologies - currently learning c++20
+
+
 <!--
 **sputnikprivate/sputnikprivate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
